@@ -103,7 +103,7 @@ namespace Savage_Bot
                 DiscordBranch = Branch.Stable,
                 LargeThreshold = 250,
                 LogLevel = LogLevel.Debug,
-                Token = "MzM1MTEzNTk5MTEyNTc3MDI0.DElClA.wam01SagP5kMI4UXKOpyagL_dXs",
+                Token = "",
                 TokenType = TokenType.Bot,
                 UseInternalLogHandler = false
             };
